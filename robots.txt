@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /public/
+Disallow: /admin/
+Disallow: /config/
+Disallow: /core/
+Disallow: /vendor/
+Disallow: /uploads/members/
+Disallow: /logs/
+
+Sitemap: https://yourdomain.com/sitemap.php
